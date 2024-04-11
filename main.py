@@ -1,3 +1,7 @@
+#
+#Yasser Ogando
+#
+
 def encode(password):
     new = []
     for i in password:
